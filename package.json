@@ -1,0 +1,19 @@
+{
+  "name": "shut",
+  "version": "3.0.0",
+  "description": "simple web",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": " GPL-3.0-or-later",
+  "dependencies": {
+    "@tomphttp/bare-server-node": "^2.0.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
